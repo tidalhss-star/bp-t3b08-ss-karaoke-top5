@@ -1,8 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs><linearGradient id="bgt3b0" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#bf360c"/><stop offset="100%" stop-color="#e65100"/>
-  </linearGradient></defs>
-  <rect width="32" height="32" rx="6" fill="url(#bgt3b0)"/>
-  <polygon points="16,3 30,28 2,28" fill="rgba(191,54,12,0.9)" stroke="rgba(230,81,0,0.6)" stroke-width="2"/>
-  <text x="16" y="21" text-anchor="middle" fill="#fff" font-size="8" font-weight="700" font-family="system-ui">T3</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>상수 가라오케 TOP5</title>
+  <rect width="64" height="64" rx="11" fill="hsl(341 66% 34%)"/>
+  <g transform="rotate(270 32 32)"><path d="M12 26q10-10 20 0t20 0" fill="none" stroke="hsl(341 24% 96%)" stroke-width="6" stroke-linecap="round"/><path d="M12 40q10-10 20 0t20 0" fill="none" stroke="hsl(93 68% 66%)" stroke-width="6" stroke-linecap="round"/></g>
 </svg>
